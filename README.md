@@ -19,3 +19,9 @@ plt.show()
 - Visualize this dataset using a heatmap with different binwidths dx and dy
 
 hint : plt.imshow()
+
+
+
+PINAR ERSOY 
+
+https://github.com/pinarersoy/SWE546_PinarErsoy 
